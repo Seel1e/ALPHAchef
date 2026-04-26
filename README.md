@@ -1,7 +1,7 @@
 # ALPHAchef
 **Copula-Based Regime-Switching Jump-Diffusion Forecaster**
 
-Institutional-grade quantitative risk pipeline modelling non-linear dependencies and tail-risk across a correlated equity portfolio.
+A quantitative risk pipeline modelling non-linear dependencies and tail-risk across a correlated equity portfolio.
 
 ---
 
